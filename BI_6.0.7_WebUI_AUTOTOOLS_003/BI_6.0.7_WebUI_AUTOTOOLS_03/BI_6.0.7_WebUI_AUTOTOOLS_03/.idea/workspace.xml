@@ -1,0 +1,1009 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="4" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6eae6a40-a5a3-40ff-aff2-150490c35d48" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/flow/biportal/base.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-67">
+              <caret line="578" column="28" selection-start-line="578" selection-start-column="28" selection-end-line="578" selection-end-column="28" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+                <element signature="e#23285#25000#0" />
+                <element signature="e#26252#27541#0" />
+                <element signature="e#27577#28006#0" />
+                <element signature="e#28042#28401#0" />
+                <element signature="e#28435#28486#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/config/conf.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="161">
+              <caret line="48" column="22" selection-start-line="48" selection-start-column="22" selection-end-line="48" selection-end-column="22" />
+              <folding>
+                <element signature="e#255#715#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="94">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
+              <folding>
+                <element signature="e#18#29#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/weburl/manage.py" />
+        <option value="D:/luxu_django/luxu_django/urls.py" />
+        <option value="$PROJECT_DIR$/webui/webui/settings.py" />
+        <option value="$PROJECT_DIR$/webui/manage.py" />
+        <option value="$PROJECT_DIR$/WEB.py" />
+        <option value="$PROJECT_DIR$/webui/webui/usercache.py" />
+        <option value="$PROJECT_DIR$/webui/webui/urls.py" />
+        <option value="$PROJECT_DIR$/webui/webui/views.py" />
+        <option value="$PROJECT_DIR$/webui/managerun.py" />
+        <option value="$PROJECT_DIR$/manager.py" />
+        <option value="$PROJECT_DIR$/DEBUG/install.py" />
+        <option value="$PROJECT_DIR$/DEBUG/s10.py" />
+        <option value="$PROJECT_DIR$/DEBUG/r15.py" />
+        <option value="$PROJECT_DIR$/DEBUG/r16.py" />
+        <option value="$PROJECT_DIR$/test_case/bi/用户分析/case用户发展C3.py" />
+        <option value="$PROJECT_DIR$/test_case/bi/用户分析/case用户统计.py" />
+        <option value="$PROJECT_DIR$/test_case/bi/频道分析/case回看频道C3.py" />
+        <option value="$PROJECT_DIR$/test_case/bi/频道分析/case直播频道.py" />
+        <option value="$PROJECT_DIR$/test_case/bi/频道分析/case直播频道C3.py" />
+        <option value="$PROJECT_DIR$/test_case/bi/频道分析/case回看频道.py" />
+        <option value="$PROJECT_DIR$/test_case/bi/点播分析/case栏目分析.py" />
+        <option value="$PROJECT_DIR$/DEBUG/d3.py" />
+        <option value="$PROJECT_DIR$/test_case/bi/自定义报告/case指标定义.py" />
+        <option value="$PROJECT_DIR$/flow/biportal/cdbase.py" />
+        <option value="$PROJECT_DIR$/flow/biportal/definebase.py" />
+        <option value="$PROJECT_DIR$/flow/biportal/epgbase.py" />
+        <option value="$PROJECT_DIR$/flow/biportal/titlebase.py" />
+        <option value="$PROJECT_DIR$/DEBUG/proc.py" />
+        <option value="$PROJECT_DIR$/lib/webui/webui/urls.py" />
+        <option value="$PROJECT_DIR$/DEBUG/searchlog.py" />
+        <option value="$PROJECT_DIR$/lib/testsam.py" />
+        <option value="$PROJECT_DIR$/lib/driver.py" />
+        <option value="$PROJECT_DIR$/DEBUG/x.py" />
+        <option value="$PROJECT_DIR$/lib/webui/webui/usercache.py" />
+        <option value="$PROJECT_DIR$/lib/webui/webui/views.py" />
+        <option value="$PROJECT_DIR$/main.py" />
+        <option value="$PROJECT_DIR$/DEBUG/api1.py" />
+        <option value="$PROJECT_DIR$/DEBUG/a3.py" />
+        <option value="$PROJECT_DIR$/lib/funcslib.py" />
+        <option value="$PROJECT_DIR$/test_case/bi/频道分析/case频道实时数据.py" />
+        <option value="$PROJECT_DIR$/config/dataoftest.py" />
+        <option value="$PROJECT_DIR$/flow/biportal/channelbase.py" />
+        <option value="$PROJECT_DIR$/DEBUG/cc.py" />
+        <option value="$PROJECT_DIR$/addtestcase/addtestall_class.py" />
+        <option value="$PROJECT_DIR$/flow/biportal/orderbase.py" />
+        <option value="$PROJECT_DIR$/flow/biportal/vodbase.py" />
+        <option value="$PROJECT_DIR$/flow/biportal/businessbase.py" />
+        <option value="$PROJECT_DIR$/flow/biportal/userbase.py" />
+        <option value="$PROJECT_DIR$/DEBUG/api2.py" />
+        <option value="$PROJECT_DIR$/flow/biportal/base.py" />
+        <option value="$PROJECT_DIR$/config/conf.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="width" value="1366" />
+    <option name="height" value="728" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="BI6.0.6_BI_PORTAL_003_version_7" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+            <path>
+              <item name="BI6.0.6_BI_PORTAL_003_version_7" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="flow" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="BI6.0.6_BI_PORTAL_003_version_7" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="flow" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="biportal" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="BI_6.0.7_WebUI_AUTOTOOLS_02" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BI_6.0.7_WebUI_AUTOTOOLS_02" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BI_6.0.7_WebUI_AUTOTOOLS_02" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BI_6.0.7_WebUI_AUTOTOOLS_02" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BI_6.0.7_WebUI_AUTOTOOLS_02" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BI_6.0.7_WebUI_AUTOTOOLS_02" type="462c0819:PsiDirectoryNode" />
+              <item name="flow" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BI_6.0.7_WebUI_AUTOTOOLS_02" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BI_6.0.7_WebUI_AUTOTOOLS_02" type="462c0819:PsiDirectoryNode" />
+              <item name="flow" type="462c0819:PsiDirectoryNode" />
+              <item name="biportal" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="oracle" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SearchEverywhereHistoryKey" value="Test用户发展&#9;null&#9;null" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JSON" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="luxu_django" is-module-sdk="true">
+        <option name="useSoftWraps" value="true" />
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="luxu_django" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Script\BI_6.0.7_WebUI_AUTOTOOLS_02\DEBUG" />
+      <recent name="D:\Script\BI6.0.7_BI_PORTAL_008\DEBUG" />
+      <recent name="D:\luxu_django\luxu_django" />
+      <recent name="D:\Script\BI6.0.6_BI_PORTAL_003_version_7\test_case\bi\订购分析" />
+      <recent name="D:\Script\BI6.0.6_BI_PORTAL_003_version_7\test_case\bi\用户分析" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration name="api1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="BI_6.0.7_WebUI_AUTOTOOLS_02" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DEBUG" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DEBUG/api1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="api2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="BI_6.0.7_WebUI_AUTOTOOLS_02" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DEBUG" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DEBUG/api2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="cc" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="BI_6.0.7_WebUI_AUTOTOOLS_02" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DEBUG" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DEBUG/cc.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="driver" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="BI_6.0.7_WebUI_AUTOTOOLS_02" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lib" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lib/driver.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="BI_6.0.7_WebUI_AUTOTOOLS_02" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <module name="ssss" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <module name="ssss" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <module name="ssss" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_regexPattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Twisted Trial">
+      <module name="ssss" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <module name="ssss" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <module name="ssss" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.main" />
+      <item itemvalue="Python.driver" />
+      <item itemvalue="Python.api2" />
+      <item itemvalue="Python.api1" />
+      <item itemvalue="Python.cc" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.api2" />
+        <item itemvalue="Python.driver" />
+        <item itemvalue="Python.cc" />
+        <item itemvalue="Python.api1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",SHOW_FIELDS,SHOW_INHERITED" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\BenQ\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6eae6a40-a5a3-40ff-aff2-150490c35d48" name="Default" comment="" />
+      <created>1525225462554</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1525225462554</updated>
+      <workItem from="1557039715921" duration="36763000" />
+      <workItem from="1557193619544" duration="15517000" />
+      <workItem from="1557219408258" duration="158000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_in_scripts_py - 2018.12.26 at 16h 49m 11s.xml">
+      <configuration name="Unittests in scripts.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_scripts_py - 2018.12.26 at 16h 49m 21s.xml">
+      <configuration name="Unittests in scripts.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_scripts_py - 2018.12.26 at 16h 50m 02s.xml">
+      <configuration name="Unittests in scripts.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_scripts_py - 2018.12.26 at 16h 50m 17s.xml">
+      <configuration name="Unittests in scripts.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_scripts_py - 2018.12.26 at 16h 51m 17s.xml">
+      <configuration name="Unittests in scripts.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_scripts_py - 2018.12.26 at 16h 52m 31s.xml">
+      <configuration name="Unittests in scripts.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_scripts_py - 2018.12.26 at 16h 52m 38s.xml">
+      <configuration name="Unittests in scripts.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_case分钟收视_py - 2019.03.05 at 15h 21m 16s.xml">
+      <configuration name="Unittests in case分钟收视.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_caseEPG高清_py - 2019.03.20 at 10h 00m 00s.xml">
+      <configuration name="Unittests in caseEPG高清.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_case回看频道_py - 2019.04.26 at 17h 17m 10s.xml">
+      <configuration name="Unittests in case回看频道.py" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="52438000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1366" height="728" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" x="756" y="263" width="407" height="513" id="Project" order="0" sideWeight="0.8051948" visible="true" weight="0.25301206" />
+      <window_info id="Structure" order="1" sideWeight="0.19480519" side_tool="true" visible="true" weight="0.25301206" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49021083" weight="0.61744964" />
+      <window_info anchor="bottom" x="11" y="289" width="1344" height="198" id="Run" order="2" sideWeight="0.8953313" visible="true" weight="0.35402685" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49698794" weight="0.3842282" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Terminal" order="6" sideWeight="0.830781" weight="0.24496645" />
+      <window_info anchor="bottom" id="TODO" order="7" sideWeight="0.49924698" weight="0.32718122" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.10466868" side_tool="true" visible="true" weight="0.35402685" />
+      <window_info anchor="bottom" id="Inspection Results" order="9" sideWeight="0.49924698" weight="0.32885906" />
+      <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.7703313" weight="0.4647651" />
+      <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="13" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" weight="0.32924962" />
+      <window_info anchor="right" id="SciView" order="4" weight="0.32924962" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" x="756" y="263" width="407" height="513" id="Project" order="0" sideWeight="0.69008267" visible="true" weight="0.20238096" />
+      <window_info id="Structure" order="1" sideWeight="0.30991736" side_tool="true" visible="true" weight="0.20238096" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.4940476" weight="0.61764705" />
+      <window_info active="true" anchor="bottom" x="11" y="289" width="1344" height="198" id="Run" order="2" sideWeight="0.8266369" visible="true" weight="0.20915033" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4985119" weight="0.19444445" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Terminal" order="6" sideWeight="0.83407736" weight="0.4722222" />
+      <window_info anchor="bottom" id="TODO" order="7" weight="0.32843137" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.17336309" side_tool="true" weight="0.12908497" />
+      <window_info anchor="bottom" id="Inspection Results" order="9" weight="0.3294893" />
+      <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.82886904" weight="0.25653595" />
+      <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.ini" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/flow/biportal/titlebase.py</url>
+          <line>111</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test_case/bi/用户分析/case用户活跃.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test_case/bi/订购分析/case退订明细C3.py</url>
+          <option name="timeStamp" value="70" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/flow/biportal/userbase.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="72" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/flow/biportal/userbase.py</url>
+          <line>416</line>
+          <option name="timeStamp" value="74" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/flow/biportal/businessbase.py</url>
+          <line>185</line>
+          <option name="timeStamp" value="77" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/flow/biportal/script登陆.py</url>
+          <line>50</line>
+          <option name="timeStamp" value="84" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/lib/funcslib.py</url>
+          <line>143</line>
+          <option name="timeStamp" value="85" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/flow/biportal/orderbase.py</url>
+          <line>399</line>
+          <option name="timeStamp" value="86" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/flow/biportal/orderbase.py</url>
+          <line>413</line>
+          <option name="timeStamp" value="88" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/BI_6_0_7_WebUI_AUTOTOOLS_02$x.coverage" NAME="x Coverage Results" MODIFIED="1557137083062" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DEBUG" />
+    <SUITE FILE_PATH="coverage/BI_6_0_7_WebUI_AUTOTOOLS_02$manager.coverage" NAME="manager Coverage Results" MODIFIED="1557197103300" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/BI_6_0_7_WebUI_AUTOTOOLS_02$driver.coverage" NAME="driver Coverage Results" MODIFIED="1557208786435" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lib" />
+    <SUITE FILE_PATH="coverage/BI_6_0_7_WebUI_AUTOTOOLS_02$searchlog.coverage" NAME="searchlog Coverage Results" MODIFIED="1557121816867" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DEBUG" />
+    <SUITE FILE_PATH="coverage/BI_6_0_7_WebUI_AUTOTOOLS_02$api2.coverage" NAME="api2 Coverage Results" MODIFIED="1557210623522" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DEBUG" />
+    <SUITE FILE_PATH="coverage/BI_6_0_7_WebUI_AUTOTOOLS_02$main.coverage" NAME="main Coverage Results" MODIFIED="1557215641703" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/BI_6_0_7_WebUI_AUTOTOOLS_02$conf.coverage" NAME="conf Coverage Results" MODIFIED="1557046411981" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/config" />
+    <SUITE FILE_PATH="coverage/BI_6_0_7_WebUI_AUTOTOOLS_02$vodbase.coverage" NAME="vodbase Coverage Results" MODIFIED="1557126707856" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/flow/biportal" />
+    <SUITE FILE_PATH="coverage/BI_6_0_7_WebUI_AUTOTOOLS_02$channelbase.coverage" NAME="channelbase Coverage Results" MODIFIED="1557201566564" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/flow/biportal" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/test_case/bi/频道分析/case回看频道.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="75" selection-start-line="75" selection-end-line="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/typing.pyi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="82">
+          <caret line="524" column="3" lean-forward="true" selection-start-line="524" selection-start-column="3" selection-end-line="524" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WEB.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="12" column="26" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+          <folding>
+            <element signature="e#44#69#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_case/bi/点播分析/case栏目分析.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="905">
+          <caret line="55" selection-start-line="55" selection-end-line="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_case/bi/频道分析/case直播频道.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="72" column="44" selection-start-line="70" selection-start-column="7" selection-end-line="72" selection-end-column="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/re.pyi">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://C:/Python35/Lib/re.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="221" column="2" lean-forward="true" selection-start-line="221" selection-start-column="2" selection-end-line="221" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_case/bi/点播分析/case点播实时数据.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2046" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DEBUG/d3.py" />
+    <entry file="file://$PROJECT_DIR$/test_case/bi/结算数据/case结算明细.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-726" />
+      </provider>
+    </entry>
+    <entry file="file://C:/Python35/Lib/os.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-358">
+          <caret line="215" column="4" selection-start-line="215" selection-start-column="4" selection-end-line="215" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_case/bi/自定义报告/case指标定义.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="30" column="43" lean-forward="true" selection-start-line="30" selection-start-column="43" selection-end-line="30" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flow/biportal/definebase.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="47" column="29" selection-start-line="47" selection-start-column="29" selection-end-line="47" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flow/biportal/homepage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-430">
+          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DEBUG/r16.py" />
+    <entry file="file://$PROJECT_DIR$/DEBUG/s8.py" />
+    <entry file="file://$PROJECT_DIR$/DEBUG/a.py" />
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/signal.pyi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="102" column="16" selection-start-line="102" selection-start-column="16" selection-end-line="102" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2018.3/system/python_stubs/-1313743207/nt.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="255" column="4" selection-start-line="255" selection-start-column="4" selection-end-line="255" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DEBUG/proc.py" />
+    <entry file="file://$PROJECT_DIR$/lib/webui/managerun.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/webui/webui/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="26" column="29" selection-start-line="26" selection-start-column="29" selection-end-line="26" selection-end-column="29" />
+          <folding>
+            <element signature="e#629#661#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/report/out.log" />
+    <entry file="file://$PROJECT_DIR$/test_case/bi/EPG分析/caseEPG智能.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DEBUG/searchlog.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="16" column="42" selection-start-line="16" selection-start-column="42" selection-end-line="16" selection-end-column="42" />
+          <folding>
+            <element signature="e#29#172#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_case/bi/点播分析/case媒资数据.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DEBUG/x.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/testsam.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="792">
+          <caret line="37" column="27" selection-start-line="37" selection-start-column="27" selection-end-line="37" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/webui/webui/usercache.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="25" column="11" selection-start-line="25" selection-start-column="11" selection-end-line="25" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/webui/webui/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="33" column="54" selection-start-line="33" selection-start-column="54" selection-end-line="33" selection-end-column="54" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flow/biportal/epgbase.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3238">
+          <caret line="254" column="29" selection-start-line="254" selection-start-column="29" selection-end-line="254" selection-end-column="29" />
+          <folding>
+            <element signature="e#14#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DEBUG/a3.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flow/biportal/titlebase.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="46" column="29" selection-start-line="46" selection-start-column="29" selection-end-line="46" selection-end-column="29" />
+          <folding>
+            <element signature="e#11#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DEBUG/api1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="4" selection-start-line="4" selection-end-line="4" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_case/bi/频道分析/case频道实时数据.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="64" column="24" selection-start-line="64" selection-start-column="24" selection-end-line="64" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/dataoftest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="145" column="43" selection-start-line="145" selection-start-column="39" selection-end-line="145" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DEBUG/cc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="12" lean-forward="true" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flow/biportal/script登陆.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="16" column="27" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/addtestcase/addtestall_class.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-25">
+          <caret line="44" column="15" selection-start-line="44" selection-start-column="15" selection-end-line="44" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flow/biportal/orderbase.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="314" lean-forward="true" selection-start-line="314" selection-end-line="314" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/funcslib.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="138" selection-start-line="138" selection-end-line="138" />
+          <folding>
+            <element signature="e#18550#23241#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flow/biportal/channelbase.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="301">
+          <caret line="59" column="34" selection-start-line="59" selection-start-column="34" selection-end-line="59" selection-end-column="34" />
+          <folding>
+            <element signature="e#13#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/driver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="18" column="9" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flow/biportal/vodbase.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="682" selection-start-line="682" selection-end-line="682" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+            <element signature="e#12771#13395#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flow/biportal/cdbase.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="65" column="6" selection-start-line="65" selection-start-column="6" selection-end-line="65" selection-end-column="6" />
+          <folding>
+            <element signature="e#16#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flow/biportal/businessbase.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="139" column="50" selection-start-line="139" selection-start-column="50" selection-end-line="139" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flow/biportal/userbase.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="581" column="13" selection-start-line="581" selection-start-column="13" selection-end-line="581" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DEBUG/api2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="24" column="30" selection-start-line="24" selection-start-column="30" selection-end-line="24" selection-end-column="30" />
+          <folding>
+            <element signature="e#66#73#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="94">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="e#18#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flow/biportal/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-67">
+          <caret line="578" column="28" selection-start-line="578" selection-start-column="28" selection-end-line="578" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+            <element signature="e#23285#25000#0" />
+            <element signature="e#26252#27541#0" />
+            <element signature="e#27577#28006#0" />
+            <element signature="e#28042#28401#0" />
+            <element signature="e#28435#28486#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/conf.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="48" column="22" selection-start-line="48" selection-start-column="22" selection-end-line="48" selection-end-column="22" />
+          <folding>
+            <element signature="e#255#715#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/BI6.0.4_BI_PORTAL_012_version_1.0.1.iml" filepath="$PROJECT_DIR$/.idea/BI6.0.4_BI_PORTAL_012_version_1.0.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/BI_6.0.7_WebUI_AUTOTOOLS_02.iml" filepath="$PROJECT_DIR$/.idea/BI_6.0.7_WebUI_AUTOTOOLS_02.iml" />
+      <module fileurl="file://D:/luxu_django/.idea/luxu_django.iml" filepath="D:/luxu_django/.idea/luxu_django.iml" />
+    </modules>
+  </component>
+</project>
